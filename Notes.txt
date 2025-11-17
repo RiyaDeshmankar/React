@@ -1,0 +1,6 @@
+1. we use "module" in <script type="module" src="script.js">
+    because it helps in import export from one file to another
+
+2. the use of react is that there was "phantom message problem" : 
+    in fb to get any notif or update anything we had to refresh the entire page
+    as html,css and js is static languages [INCONSISTENCY IN UI]

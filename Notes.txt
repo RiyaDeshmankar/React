@@ -1,6 +1,17 @@
 1. we use "module" in <script type="module" src="script.js">
     because it helps in import export from one file to another
+    we export a component so that other files can import and use it
 
 2. the use of react is that there was "phantom message problem" : 
     in fb to get any notif or update anything we had to refresh the entire page
     as html,css and js is static languages [INCONSISTENCY IN UI]
+
+3. SPA-single page application: react only has 1 index.html 
+        which is the first page 
+
+4. functional component in jx must start w capital letter:
+    function Chai(){
+        ...
+    }
+
+5. JSX- js+xml- syntax extension for react, can write html
